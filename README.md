@@ -15,26 +15,18 @@
 - **Sistemas Operativos:** Linux (Ubuntu) / Windows Subsystem for Linux (WSL 2)
 - **Terminal & Flujo de Trabajo:** Tilix CLI, Git / GitHub, automatización por comandos, transferencia remota (SFTP/FileZilla)
 
-### Diseño & Fabricación 3D
-- **Modelado & Slicing:** Tinkercad, Ultimaker Cura (Impresión 3D en PLA+)
 
 ---
-
 ## 📌 Proyectos Destacados
 
-### 🐾 Sistema de Gestión de Adopción Canina
-*Aplicación web Full-Stack diseñada para conectar hogares con mascotas.*
+### 🐾 ProyectoAdopcion
+*Aplicación web Full-Stack diseñada para la gestión de una clínica de adopción de perritos.*
 - **Stack:** Python (Flask), MariaDB (Modelado relacional completo).
-- **Destacado:** Diseñado con un enfoque de base de datos robusto desde la terminal para gestionar historiales y registros de adopción sin interfaces gráficas pesadas.
+- **Destacado:** Diseñado con un enfoque de base de datos robusto desde la terminal para gestionar de forma eficiente los registros e historiales de adopción.
 
-### 🧁 Abby's Bakery (E-commerce & Despliegue)
-*Sitio web de producción real enfocado en el sector de la panadería.*
-- **Stack:** WordPress, WooCommerce, Elementor.
-- **Destacado:** Migración completa y exitosa a un servidor de producción remoto, configurando políticas de seguridad, archivos de acceso (`.htaccess`) y servidores de correo saliente (SMTP).
-
-### 🔧 Diseño e Ingeniería en 3D
-*Repositorio con modelos tridimensionales para soluciones mecánicas y personalización.*
-- **Herramientas:** Tinkercad, Ultimaker Cura, Artillery Genius Hardware.
-- **Destacado:** Creación de herramientas mecánicas funcionales y llaveros personalizados optimizados para impresión de alta resistencia con PLA+.
+### ⚛️ Aplicaci-n-en-React.js
+*Desarrollo frontend dinámico e interactivo utilizando componentes modernos.*
+- **Stack:** JavaScript (React), HTML5, CSS3.
+- **Destacado:** Implementación de interfaces de usuario fluidas, modulares y reactivas a las acciones del usuario, estructurada siguiendo buenas prácticas de desarrollo.
 
 
