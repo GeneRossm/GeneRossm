@@ -38,8 +38,3 @@
 - **Destacado:** Creación de herramientas mecánicas funcionales y llaveros personalizados optimizados para impresión de alta resistencia con PLA+.
 
 
-
-
-## 📫 ¡Conectemos!
-- **LinkedIn:** [Enlace a tu perfil]
-- **Contacto / Portafolio:** [Tu correo o enlace de contacto]
